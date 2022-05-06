@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(215, 250, 232);
+}
+.titulo{
+    font-size: 40px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #111b55;
+}
+div{
+    margin-top: 30px;
+    align-content: center;
+}
+button{
+    color: bisque;
+    background-color: #152581;
+    width: 80;
+    height: 50;
+    font-size: 30;
+    text-align: center;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 10px;
+    border: white;
+}
+button:hover{
+    background-color: #aa1a1a;
+}
+.error{
+    font-size: 40px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #111b55;
+    margin-top: 20%;
+    align-content: center;
+}
